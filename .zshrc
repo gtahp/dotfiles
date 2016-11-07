@@ -61,7 +61,7 @@ source $ZSH/oh-my-zsh.sh
 
 # You may need to manually set your language environment
 export LANG=en_US.UTF-8
-export HOMEBREW_GITHUB_API_TOKEN=280255ee32d87fddfa805ed827d303b9acdf989b
+#export HOMEBREW_GITHUB_API_TOKEN=
 
 # Preferred editor for local and remote sessions
 # if [[ -n $SSH_CONNECTION ]]; then
